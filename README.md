@@ -10,4 +10,4 @@ During this project, I used :
 - Pillow 7.2.0
 
 
-![](Test.gif)
+![](Screen.jpg)
